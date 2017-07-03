@@ -1,0 +1,16 @@
+.nav {
+  display: flex;
+  justify-content: space-around;
+
+  margin: auto;
+
+  &__cloud-atlas {
+    color: $brand-logo;
+  }
+}
+
+// .outer-container {
+//   max-width: 60rem;
+//
+//   margin: auto;
+// }
